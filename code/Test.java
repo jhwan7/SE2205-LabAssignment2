@@ -1,3 +1,10 @@
+// Student Name: Junseo Hwang
+//Student Number: 250971763
+
+//Student Name: Jeongwon Song
+//Student Number: 250966253
+
+
 public class Test{
   
   public static void p1(){
